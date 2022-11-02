@@ -14,7 +14,6 @@ print(humid)
 print(windy)
 print(play)
 
-
 count = data.count()[1]
 print(count)
 count
@@ -23,7 +22,6 @@ inp_outlook = input("Enter outlook: ")
 inp_temp = input("Enter Temperature: ")
 inp_humidity = input("Enter humidity: ")
 inp_windy = input("If it is windy or no: ")
-
 
 play_yes, play_no = 0,0
 
