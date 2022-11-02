@@ -55,10 +55,7 @@ outlook_yes, outlook_no
 
 inp_outlook_yes = outlook_yes/play_yes
 inp_outlook_no = outlook_no/play_no
-
-
 inp_outlook_yes, inp_outlook_no
-
 
 # temp
 temp_yes, temp_no = 0, 0
@@ -74,10 +71,7 @@ temp_yes, temp_no
 
 inp_temp_yes = temp_yes/play_yes
 inp_temp_no = temp_no/play_no
-
-
 inp_temp_yes, inp_temp_no
-
 
 # humidity
 humid_yes, humid_no = 0, 0
@@ -93,8 +87,6 @@ humid_yes, humid_no
 
 inp_humid_yes = humid_yes/play_yes
 inp_humid_no = humid_no/play_no
-
-
 inp_humid_yes, inp_humid_no
 
 
@@ -112,8 +104,6 @@ windy_yes, windy_no
 
 inp_windy_yes = windy_yes/play_yes
 inp_windy_no = windy_no/play_no
-
-
 inp_windy_yes, inp_windy_no
 
 
