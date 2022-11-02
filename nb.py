@@ -2,8 +2,6 @@ import pandas as pd
 data = pd.read_csv('golf.csv')
 print(data)
 
-data.head(2)
-
 outlook = data["Outlook"].values
 temp = data["Temperature"].values
 humid = data["Humidity"].values
